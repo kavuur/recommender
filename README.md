@@ -1,0 +1,2 @@
+# recommender
+Kavu.php is a class that demonstrate the implementation of a Holistic context aware recommender algorithm, that algorithm was implemented on this social network http://www.unipals.co.zw/ to recommend friends to users. The users did interact with the recommender algorithm and the interaction was recorded on the file statistics.csv and the dataset was then analysed in the file Journal Article-Kavu.ipynb.
